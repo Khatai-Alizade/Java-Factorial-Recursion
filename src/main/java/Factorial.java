@@ -9,6 +9,7 @@ public class Factorial {
         //Calculation 5 factorial
         System.out.println(fact(5));
     }
+    //static function
         public static int fact(int n) {
         if(n==0) {
             return 1;
